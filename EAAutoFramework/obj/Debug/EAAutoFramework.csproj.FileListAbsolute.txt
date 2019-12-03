@@ -1,0 +1,17 @@
+C:\udemy\EAAutoFramework\EAAutoFramework\bin\Debug\EAAutoFramework.dll
+C:\udemy\EAAutoFramework\EAAutoFramework\bin\Debug\EAAutoFramework.pdb
+C:\udemy\EAAutoFramework\EAAutoFramework\bin\Debug\WebDriver.dll
+C:\udemy\EAAutoFramework\EAAutoFramework\bin\Debug\WebDriver.Support.dll
+C:\udemy\EAAutoFramework\EAAutoFramework\bin\Debug\WebDriver.xml
+C:\udemy\EAAutoFramework\EAAutoFramework\bin\Debug\WebDriver.Support.xml
+C:\udemy\EAAutoFramework\EAAutoFramework\obj\Debug\EAAutoFramework.csproj.CoreCompileInputs.cache
+C:\udemy\EAAutoFramework\EAAutoFramework\obj\Debug\EAAutoFramework.csproj.CopyComplete
+C:\udemy\EAAutoFramework\EAAutoFramework\obj\Debug\EAAutoFramework.dll
+C:\udemy\EAAutoFramework\EAAutoFramework\obj\Debug\EAAutoFramework.pdb
+C:\udemy\EAAutoFramework\EAAutoFramework\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\udemy\EAAutoFramework\EAAutoFramework\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\udemy\EAAutoFramework\EAAutoFramework\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\udemy\EAAutoFramework\EAAutoFramework\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\udemy\EAAutoFramework\EAAutoFramework\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\udemy\EAAutoFramework\EAAutoFramework\bin\Debug\Drivers\chromedriver.exe
+C:\udemy\EAAutoFramework\EAAutoFramework\obj\Debug\EAAutoFramework.csprojAssemblyReference.cache
